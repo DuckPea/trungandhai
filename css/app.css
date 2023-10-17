@@ -18,6 +18,37 @@ body::-webkit-scrollbar {
     font-family: 'Josefin Sans', sans-serif;
     color: #111111 !important;
 }
+.font-WindSong {
+    font-family: 'WindSong', cursive;
+    color: #111111 !important;
+}
+.font-bilbo {
+    font-style: italic;
+    color: #111111 !important;
+    font-size: 2rem;
+    font-family: 'Bilbo', cursive;
+}
+
+.font-bilbo-2 {
+    color: #111111 !important;
+    font-size: 2rem;
+    font-family: 'Bilbo', cursive;
+}
+.font-waterfall {
+    font-family: 'Waterfall', cursive;
+    color: #111111 !important;
+}
+
+.font-dancing {
+    color: #111111 !important;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive !important;
+}
+
+.date-format {
+    font-weight: bold;
+}
 
 .img-crop {
     width: 14rem;
@@ -133,4 +164,17 @@ footer {
 }
 
 
+
+h1 {
+    font-size: 2.5vh;
+}
+.title-name-card {
+    font-size: 2.5rem;
+    color: #000;
+}
+
+.main-content-1 {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #B1E9F3 !important
+}
 
