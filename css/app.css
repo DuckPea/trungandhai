@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Sans';
     padding: 0 !important;
     -ms-overflow-style: none;
     scrollbar-width: none;
@@ -128,8 +128,6 @@ footer {
 }
 
 .content {
-    padding-left: 10%;
-    padding-right: 5%;
     position: relative;
 }
 
